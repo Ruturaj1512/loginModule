@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "104487082137",
+    "project_id": "ar-project-3cab1",
+    "storage_bucket": "ar-project-3cab1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104487082137:android:bcb25b4b89a50e0aa28008",
+        "android_client_info": {
+          "package_name": "edu.ritindia.prathmeshb.ardesign"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "104487082137-1v6iop7vafot911h0itp5rfqkvktakdi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKqAWC_ZuSTZluanA6GrjqYSoRaTVPa4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "104487082137-1v6iop7vafot911h0itp5rfqkvktakdi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
